@@ -1,1 +1,1 @@
-![图片](./images/作业.JPG)
+![图片描述](images/作业.JPG)
